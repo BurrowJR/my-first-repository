@@ -1,7 +1,8 @@
 # README #
 ## Table of Contents
 example_file.txt
-
+Hello World!
+Creating and Merging Branches
 Important steps for git workflow:
 
 1. Initialize repository with git init
