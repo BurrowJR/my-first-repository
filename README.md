@@ -4,6 +4,7 @@ example_file.txt
 Hello World!
 Learning Github!
 Having fun all the way!
+Loving learning!
 Creating and Merging Branches
 Important steps for git workflow:
 
