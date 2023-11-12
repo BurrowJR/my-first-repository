@@ -1,5 +1,7 @@
 # README #
-Practice repository for git workflow.
+## Table of Contents
+example_file.txt
+
 Important steps for git workflow:
 
 1. Initialize repository with git init
