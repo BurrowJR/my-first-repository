@@ -2,6 +2,8 @@
 ## Table of Contents
 example_file.txt
 Hello World!
+Learning Github!
+Having fun all the way!
 Creating and Merging Branches
 Important steps for git workflow:
 
